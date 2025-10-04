@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Krishna;Mathematical+Statistics+Student;Bayesian+Statistics+Researcher;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile!;)](https://git.io/typing-svg)
 
 ###
