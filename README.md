@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=570&lines=Hi+👋+I'm+Krishna.;I'm+Mathematical+Statistics+Researcher.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=570&lines=Welcome🌷+Hi👋+I'm+Krishna.;I'm+Mathematical+Statistics+Researcher.;)](https://git.io/typing-svg)
 
 ###
 
