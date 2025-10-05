@@ -55,7 +55,7 @@
 
 <!--Git, Docker, GitHub Actions, PostgreSQL, MongoDB, AWS, Vercel, Firebase-->
 
-- **Development Practices :**  
+<!-- - **Development Practices :**  -->
 
 <p align="left">
 
