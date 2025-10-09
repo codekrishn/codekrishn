@@ -79,6 +79,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [E-Commerce](https://github.com/codekrishn/E-Commerce.git) | A modern and fully responsive e-commerce website built using HTML, CSS, and Python. This project showcases an intuitive shopping experience with product listings, a shopping cart, and checkout functionality. | HTML, CSS, Python |
 | [CV_Profile_Webpage](https://github.com/codekrishn/CV_Profile_Webpage.git) | A "CV profile webpage" is a personal website dedicated to your professional profile, acting as a central hub for your CV, resume, portfolio, and career marketing. | HTML, CSS, Continuing |
 | [CreativeMind](https://github.com/codekrishn/CreativeMind.git) | It serves as a personal space where I can write articles, post images, and connect with readers interested in similar topics. With a simple, user-friendly design, readers can explore content on travel, technology, lifestyle, I wish to share. This blog page reflects my creativity, thoughts, and journey, making it a unique digital identity. | HTML, CSS, Continuing |
 | [Profile_Page_Website](https://github.com/codekrishn/Profile_Page_Website.git) | A simple, responsive profile page with cover photo, user details, and editable information table, built using HTML and CSS for easy customization and personal use. | HTML, CSS, Continuing |
