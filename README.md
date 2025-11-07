@@ -4,7 +4,12 @@
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧑🏻‍💻 My name is **<a href="https://kousikbiswas.com/" target="_blank">Krishna</a>**, I specialize in **<a href="https://kousikbiswas.com/about_me.php" target="_blank">Mathematical Statistics Researcher</a>** and experience in Economic, Agriculture, Computer Science. and in my free time, I love learning **<a href="https://kousikbiswas.com/about_me.php" target="_blank">Programming and Computer Science</a>**. I build reliable, scalable, and maintainable software solutions. I take pride in writing clean code, solving real-world problems, and continuously learning new technologies. I'm glad to be here.
+🧑🏻‍💻 **<a href="https://kousikbiswas.com/" target="_blank">Krishna</a>** is my name.<br>
+Thriving in the rush of a HECTIC life.<br>
+● I specialize in **<a href="https://kousikbiswas.com/about_me.php" target="_blank">Mathematical Statistics Researcher</a>**<br>
+● I love learning **<a href="https://kousikbiswas.com/about_me.php" target="_blank">Programming and Computer Science</a>**.<br>
+and experience in Economic, Agriculture, Computer Science. and in my free time, I build reliable, scalable, and maintainable software solutions. I take pride in writing clean code, solving real-world problems, and continuously learning new technologies. I'm glad to be here.
+
 
 ---
 
