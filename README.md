@@ -30,13 +30,13 @@ and experience in Economic, Agriculture, Computer Science. and in my free time, 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://html.com/" target="_blank"><img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/?size=50&id=21278&format=png&color=000000"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000"/></a>
 </p>
 
 - **Languages :**  
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/?size=50&id=l75OEUJkPAk4&format=png&color=000000"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000"/></a>
 </p>
 
 <!--Python, TypeScript, Java, C++-->
